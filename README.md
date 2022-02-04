@@ -5,7 +5,7 @@
 <a href="#"><img title="clown_v2" src="https://img.shields.io/badge/clown_v2-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/Ajmal-Achu"><img title="Author" src="https://img.shields.io/badge/Author-shibi123456/clown_v2?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/shibi123456"><img title="Author" src="https://img.shields.io/badge/Author-shibi123456/clown_v2?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
