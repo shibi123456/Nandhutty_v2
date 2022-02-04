@@ -2,7 +2,7 @@
 <div align="center">
   <img border-radius: 15px src="clown-SIR.jpg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="clown_v2" src="https://img.shields.io/badge/clown_v2-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="clownsir_v2" src="https://img.shields.io/badge/clownsir_v2-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/shibi123456"><img title="Author" src="https://img.shields.io/badge/Author-shibi123456/clown-sir_v2?color=blue&style=for-the-badge&logo=whatsapp"></a>
@@ -43,7 +43,7 @@ GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
 $ git clone https://github.com/shibi123456/clown-sir_v2
-$ cd clown_v2
+$ cd clownsir_v2
 $ npm install @adiwajshing/baileys
 $ npm install chalk
 $ node julie.js
@@ -52,7 +52,7 @@ $ node julie.js
 ```js
 SETUP
 $ git clone https://github.com/shibi123456/clown-sir_v2
-$ cd clown_v2
+$ cd clownsir_v2
 $ npm i
 $ node julie.js
 ```
